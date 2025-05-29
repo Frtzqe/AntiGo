@@ -10,7 +10,8 @@ Although being a nascent idea, realisation was recently prompted by a novel chan
 
 What a stupid design change!
 
-Re-enabling this is simple (if you tweak the source a bit), and is OK for me. However, it fueled that idea, more specific to re-implement parts of LXQt in the combination of Go and Fyne. Fyne is a graphical toolkit written in Go. 
+Re-enabling this is simple (if you tweak the source a bit), and is OK for me. 
+However, it fueled the forementioned idea, more specifically to re-implement parts of LXQt in the combination of Go and Fyne. Fyne is a graphical toolkit written in Go. 
 
 History reveals that LXQt is, at it root, based on a project called "Antico" (which in turn was inspired by "QLWM"). The name of this derived project "AntiGo" was born rapidly.
 
