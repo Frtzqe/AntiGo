@@ -4,7 +4,7 @@ First, and above all: the LXQt desktop environment is nice, very nice. LXQt is w
 
 It is a very complete, underestimated desktop! I find the result overwhelming and phenomenal nice. "It's a beauty". 
 
-Anyway, after using the FyneDesk desktop environment for a while, and especially after enjoying its simplicity in its codebase, the idea came up to 
+Anyway, after using the FyneDesk desktop environment for a while, and especially after enjoying the simplicity in its codebase, the idea came up to 
 replace the lxqt-panel application (which is at the heart of LXQt) by something else, a Go/Fyne solution. Fyne is a graphical toolkit written in Go. 
 
 History reveals that LXQt is, at it root, based on a project called "Antico".  The name of this project "AntiGo" was born rapidly.
