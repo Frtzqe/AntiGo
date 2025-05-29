@@ -8,7 +8,7 @@ replace the lxqt-panel application (which is at the heart of LXQt) by something 
 
 History reveals that LXQt is, at it root, based on a project called "Antico".  The name of this project "AntiGo" was born rapidly.
 
-My idea is too just replace "lxqt-panel", and create a drop-in "ntgo-panel" application. 
+My idea is just to replace "lxqt-panel", and create a drop-in "ntgo-panel" application. 
 
 Ambitious? Sure. 
 
