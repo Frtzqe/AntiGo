@@ -2,7 +2,7 @@
 
 First, and above all: the LXQt desktop environment is nice, very nice. LXQt is written in C++, using the Qt graphical toolkit. 
 
-It is a very complete, underestimated desktop! I find the result overwhelming and phenomenal nice. "It's a beauty". 
+It is a very complete, under estimated desktop! I find the result overwhelming and phenomenal nice. "It's a beauty". 
 
 Anyway, after using the FyneDesk desktop environment for a while, and especially after enjoying the simplicity in its codebase, the idea came up to 
 replace the lxqt-panel application (which is at the heart of LXQt) by something else.
