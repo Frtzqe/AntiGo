@@ -15,7 +15,7 @@ However, it fueled the forementioned idea, more specifically to re-implement par
 
 History reveals that LXQt is, at it root, based on a project called "Antico" (which in turn was inspired by "QLWM"). The name of this derived project "AntiGo" was born rapidly.
 
-My idea is just to replace "lxqt-panel", and create a drop-in "ntgo-panel" application. Once this new panel is functional, the chosen approach allows for gradual replacement of other parts of LXQt as well (if needed). Certain parts of LXQt (like qterminal, pcmanfm-qt) certainly do not need a retrofit!
+My idea is just to remove "lxqt-panel", and create a drop-in "ntgo-panel" application. Once this new panel is functional, the chosen approach allows for gradual replacement of other parts of LXQt as well (if needed). Certain parts of LXQt (like qterminal, pcmanfm-qt) certainly do not need a retrofit!
 
 Ambitious? Sure. 
 
