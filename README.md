@@ -1,4 +1,4 @@
-# AntiGo - the next small desktop thing?
+# AntiGo - the next big small desktop thing?
 
 First, and above all: the LXQt desktop environment is nice, very nice. LXQt is written in C++, using the Qt graphical toolkit. 
 
